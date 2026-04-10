@@ -1,5 +1,7 @@
 # 📩 Spam SMS Detection using Machine Learning
 
+**dataset**: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 ## 📌 Project Overview
 This project is a Machine Learning-based system that classifies SMS messages as **Spam** or **Ham (Not Spam)**. It uses Natural Language Processing (NLP) techniques to analyze text data and predict whether a message is spam.
 
