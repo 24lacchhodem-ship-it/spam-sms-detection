@@ -69,29 +69,6 @@ A user-friendly interface is built using Tkinter where:
 
 ---
 
-## 📸 Output Screenshots
-The project includes:
-- Data preprocessing output  
-- Model comparison table  
-- Accuracy results  
-- Confusion matrix  
-- Best model selection  
-- GUI interface  
-- GUI prediction results  
-
-*(Add your screenshots in this section)*
-
----
-
-## 📂 Project Files
-- `spam_model.pkl` → Trained machine learning model  
-- `vectorizer.pkl` → TF-IDF vectorizer  
-- `spam_gui.py` → GUI application  
-- `spam.csv` → Dataset  
-- `notebook.ipynb` → Colab notebook  
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1. Install Dependencies
